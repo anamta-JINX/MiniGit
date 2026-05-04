@@ -1,0 +1,26 @@
+@"
+# MiniGit generated internal repo
+.mini_git/
+
+# MiniGit ignore file
+.minigitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build output
+build/
+dist/
+*.spec
+
+# Virtual environment / secrets
+venv/
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+"@ | Out-File -Encoding utf8 .gitignore
