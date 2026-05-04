@@ -403,15 +403,15 @@ MiniGit Pro includes a premium dark and light GUI theme with a branded local ver
 
 ### Dark Theme
 
-![MiniGit Pro Dark Theme](Demo/dark-demo.png)
+![MiniGit Pro Dark Theme](dark-demo.png)
 
 ### Repository Initialization
 
-![MiniGit Pro Init Demo](Demo/init-demo.png)
+![MiniGit Pro Init Demo](init-demo.png)
 
 ### Light Theme
 
-![MiniGit Pro Light Theme](Demo/light-demo.png)               
+![MiniGit Pro Light Theme](light-demo.png)               
 
 ## Learning Outcomes
 
